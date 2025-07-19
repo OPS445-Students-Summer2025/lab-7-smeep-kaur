@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab7.py
+===============================================================
+    User login name: smeep-kaur
+    Linux system name: smeep-kaur
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/smeep-kaur/ops445/lab7
+    Start at: Fri Jul 18 20:33:29 2025
+===============================================================
